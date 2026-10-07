@@ -1,0 +1,10 @@
+{
+  "version": "0.12.0-beta.1",
+  "builtAt": "2026-10-07T02:41:16.488Z",
+  "base": "/brasa-umbral-juego/",
+  "comparison": {
+    "v1": "0.11.0-beta.1",
+    "v2": "0.12.0-beta.1"
+  },
+  "sourceCommit": "4b065a562b7dd6b4c0ca379cd33eda531740ed3c"
+}
